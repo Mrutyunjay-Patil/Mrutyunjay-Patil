@@ -1,7 +1,6 @@
 # Mrutyunjay Patil
 
-**Applied AI Engineer** | Specialist Programmer at Infosys
-Maharashtra, India | [mrutyunjaypatil.dev](https://mrutyunjaypatil.dev)
+**Applied AI Engineer** | [mrutyunjaypatil.dev](https://mrutyunjaypatil.dev)
 
 ---
 
